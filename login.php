@@ -1,3 +1,3 @@
 <?php
- echo "Login.php"
+ echo "Login.php";
 ?>
