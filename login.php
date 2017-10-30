@@ -1,6 +1,6 @@
 <?php
  $username=$_POST['username'];
  $password=$_POST['password'];
- login();
+ login("chat");
  echo "Login_page.php";
 ?>
